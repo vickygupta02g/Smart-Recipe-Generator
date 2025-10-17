@@ -1,0 +1,38 @@
+# Node.js dependencies and build outputs
+node_modules/
+**/node_modules/
+
+# Build artifacts
+**/dist/
+**/build/
+**/.turbo/
+**/.next/
+
+# Environment and local config
+.env
+.env.*
+**/.env
+**/.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and coverage
+logs/
+**/logs/
+*.log
+**/*.log
+coverage/
+**/coverage/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+**/.eslintcache
+**/.cache/

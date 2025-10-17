@@ -1,0 +1,754 @@
+[
+  {
+    "id": "r001",
+    "title": "Mediterranean Quinoa Salad",
+    "description": "A refreshing quinoa salad loaded with herbs, vegetables, and tangy dressing.",
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "cookingTime": 25,
+    "baseServings": 4,
+    "dietaryTags": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "quinoa", "quantity": 1, "unit": "cup" },
+      { "name": "water", "quantity": 2, "unit": "cups" },
+      { "name": "cherry tomatoes", "quantity": 1, "unit": "cup" },
+      { "name": "cucumber", "quantity": 1, "unit": "cup", "preparation": "diced" },
+      { "name": "kalamatta olives", "quantity": 0.5, "unit": "cup", "optional": true },
+      { "name": "feta cheese", "quantity": 0.5, "unit": "cup", "optional": true },
+      { "name": "red onion", "quantity": 0.25, "unit": "cup", "preparation": "finely chopped" },
+      { "name": "fresh parsley", "quantity": 0.25, "unit": "cup", "preparation": "chopped" },
+      { "name": "olive oil", "quantity": 3, "unit": "tablespoons" },
+      { "name": "lemon juice", "quantity": 3, "unit": "tablespoons" },
+      { "name": "dried oregano", "quantity": 1, "unit": "teaspoon" },
+      { "name": "salt", "quantity": 0.5, "unit": "teaspoon" },
+      { "name": "black pepper", "quantity": 0.25, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Rinse quinoa until water runs clear.",
+      "Combine quinoa and water in a saucepan; bring to a boil, then simmer 15 minutes.",
+      "Fluff quinoa and cool slightly.",
+      "Whisk olive oil, lemon juice, oregano, salt, and pepper.",
+      "Combine quinoa, vegetables, herbs, and dressing.",
+      "Top with feta and olives before serving."
+    ],
+    "nutrition": { "calories": 320, "protein": 12, "carbs": 45, "fat": 10, "fiber": 6 },
+    "image": "/images/quinoa-salad.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "feta cheese",
+        "substitutes": ["goat cheese", "vegan feta"],
+        "note": "Choose vegan feta for dairy-free diets."
+      },
+      {
+        "ingredient": "kalamatta olives",
+        "substitutes": ["green olives", "capers"],
+        "note": "Capers add briny flavor with fewer calories."
+      }
+    ]
+  },
+  {
+    "id": "r002",
+    "title": "Thai Coconut Curry",
+    "description": "Creamy coconut curry with vegetables and tofu served over jasmine rice.",
+    "cuisine": "Thai",
+    "difficulty": "medium",
+    "cookingTime": 35,
+    "baseServings": 4,
+    "dietaryTags": ["vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "extra-firm tofu", "quantity": 14, "unit": "oz" },
+      { "name": "coconut milk", "quantity": 2, "unit": "cups" },
+      { "name": "red curry paste", "quantity": 3, "unit": "tablespoons" },
+      { "name": "vegetable broth", "quantity": 1, "unit": "cup" },
+      { "name": "bell pepper", "quantity": 1, "unit": "cup", "preparation": "sliced" },
+      { "name": "broccoli florets", "quantity": 2, "unit": "cups" },
+      { "name": "carrots", "quantity": 1, "unit": "cup", "preparation": "julienned" },
+      { "name": "ginger", "quantity": 1, "unit": "tablespoon", "preparation": "minced" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves", "preparation": "minced" },
+      { "name": "soy sauce", "quantity": 2, "unit": "tablespoons" },
+      { "name": "lime juice", "quantity": 1, "unit": "tablespoon" },
+      { "name": "fresh basil", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Press and cube tofu, then sear until golden.",
+      "Sauté garlic and ginger; stir in curry paste.",
+      "Pour coconut milk and broth; simmer 10 minutes.",
+      "Add vegetables and tofu; cook until tender.",
+      "Finish with soy sauce, lime juice, and basil.",
+      "Serve with jasmine rice."
+    ],
+    "nutrition": { "calories": 410, "protein": 19, "carbs": 28, "fat": 24, "fiber": 6 },
+    "image": "/images/thai-curry.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "tofu",
+        "substitutes": ["chickpeas", "tempeh"],
+        "note": "Chickpeas keep dish soy-free."
+      },
+      {
+        "ingredient": "soy sauce",
+        "substitutes": ["tamari", "coconut aminos"],
+        "note": "Use coconut aminos for soy-free needs."
+      }
+    ]
+  },
+  {
+    "id": "r003",
+    "title": "Grilled Lemon Herb Chicken",
+    "description": "Juicy grilled chicken marinated with lemon, garlic, and herbs.",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookingTime": 30,
+    "baseServings": 4,
+    "dietaryTags": ["gluten-free", "keto"],
+    "ingredients": [
+      { "name": "chicken breasts", "quantity": 4, "unit": "pieces" },
+      { "name": "olive oil", "quantity": 3, "unit": "tablespoons" },
+      { "name": "lemon zest", "quantity": 1, "unit": "tablespoon" },
+      { "name": "lemon juice", "quantity": 3, "unit": "tablespoons" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "preparation": "minced" },
+      { "name": "rosemary", "quantity": 1, "unit": "tablespoon", "preparation": "chopped" },
+      { "name": "thyme", "quantity": 1, "unit": "tablespoon", "preparation": "chopped" },
+      { "name": "salt", "quantity": 1, "unit": "teaspoon" },
+      { "name": "black pepper", "quantity": 0.5, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Whisk marinade ingredients together.",
+      "Marinate chicken 20 minutes.",
+      "Grill over medium-high heat 6-7 minutes per side.",
+      "Rest 5 minutes before serving."
+    ],
+    "nutrition": { "calories": 280, "protein": 36, "carbs": 3, "fat": 12, "fiber": 0 },
+    "image": "/images/lemon-herb-chicken.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "chicken breasts",
+        "substitutes": ["chicken thighs", "cauliflower steaks"],
+        "note": "Use cauliflower steaks for vegetarian variation."
+      }
+    ]
+  },
+  {
+    "id": "r004",
+    "title": "Spicy Black Bean Tacos",
+    "description": "Flavor-packed tacos with smoky black beans and fresh toppings.",
+    "cuisine": "Mexican",
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "baseServings": 4,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "corn tortillas", "quantity": 8, "unit": "pieces" },
+      { "name": "black beans", "quantity": 2, "unit": "cups", "preparation": "cooked" },
+      { "name": "chipotle in adobo", "quantity": 1, "unit": "tablespoon", "preparation": "minced" },
+      { "name": "red onion", "quantity": 0.5, "unit": "cup", "preparation": "diced" },
+      { "name": "bell pepper", "quantity": 1, "unit": "cup", "preparation": "diced" },
+      { "name": "corn kernels", "quantity": 1, "unit": "cup" },
+      { "name": "cilantro", "quantity": 0.25, "unit": "cup", "preparation": "chopped" },
+      { "name": "lime", "quantity": 1, "unit": "piece" },
+      { "name": "avocado", "quantity": 1, "unit": "piece", "optional": true }
+    ],
+    "steps": [
+      "Sauté onion and pepper until soft.",
+      "Add beans, chipotle, and corn; heat through.",
+      "Warm tortillas and fill with bean mixture.",
+      "Top with cilantro, avocado, and lime juice."
+    ],
+    "nutrition": { "calories": 340, "protein": 13, "carbs": 51, "fat": 9, "fiber": 11 },
+    "image": "/images/black-bean-tacos.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "corn tortillas",
+        "substitutes": ["flour tortillas", "lettuce wraps"],
+        "note": "Use lettuce wraps for low-carb option."
+      }
+    ]
+  },
+  {
+    "id": "r005",
+    "title": "Salmon with Dill Yogurt Sauce",
+    "description": "Oven-baked salmon topped with a creamy dill yogurt sauce.",
+    "cuisine": "Scandinavian",
+    "difficulty": "medium",
+    "cookingTime": 25,
+    "baseServings": 4,
+    "dietaryTags": ["pescatarian", "gluten-free"],
+    "ingredients": [
+      { "name": "salmon fillets", "quantity": 4, "unit": "pieces" },
+      { "name": "olive oil", "quantity": 2, "unit": "tablespoons" },
+      { "name": "garlic powder", "quantity": 1, "unit": "teaspoon" },
+      { "name": "salt", "quantity": 0.5, "unit": "teaspoon" },
+      { "name": "black pepper", "quantity": 0.25, "unit": "teaspoon" },
+      { "name": "plain yogurt", "quantity": 1, "unit": "cup" },
+      { "name": "fresh dill", "quantity": 2, "unit": "tablespoons", "preparation": "chopped" },
+      { "name": "lemon juice", "quantity": 2, "unit": "tablespoons" },
+      { "name": "honey", "quantity": 1, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Brush salmon with oil and seasonings.",
+      "Bake at 400°F for 12-14 minutes.",
+      "Stir yogurt, dill, lemon, and honey.",
+      "Serve salmon topped with sauce."
+    ],
+    "nutrition": { "calories": 360, "protein": 34, "carbs": 6, "fat": 22, "fiber": 0 },
+    "image": "/images/dill-salmon.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "plain yogurt",
+        "substitutes": ["Greek yogurt", "coconut yogurt"],
+        "note": "Use coconut yogurt for dairy-free diets."
+      }
+    ]
+  },
+  {
+    "id": "r006",
+    "title": "Mushroom Risotto",
+    "description": "Creamy arborio rice simmered with mushrooms and Parmesan.",
+    "cuisine": "Italian",
+    "difficulty": "hard",
+    "cookingTime": 45,
+    "baseServings": 4,
+    "dietaryTags": ["vegetarian"],
+    "ingredients": [
+      { "name": "arborio rice", "quantity": 1.5, "unit": "cups" },
+      { "name": "vegetable broth", "quantity": 5, "unit": "cups" },
+      { "name": "cremini mushrooms", "quantity": 3, "unit": "cups", "preparation": "sliced" },
+      { "name": "parmesan cheese", "quantity": 0.75, "unit": "cup" },
+      { "name": "white wine", "quantity": 0.5, "unit": "cup", "optional": true },
+      { "name": "shallots", "quantity": 0.5, "unit": "cup", "preparation": "minced" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves", "preparation": "minced" },
+      { "name": "butter", "quantity": 3, "unit": "tablespoons" },
+      { "name": "olive oil", "quantity": 2, "unit": "tablespoons" },
+      { "name": "fresh thyme", "quantity": 1, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Warm broth in a saucepan.",
+      "Sauté mushrooms, remove and set aside.",
+      "Cook shallots and garlic in butter and oil.",
+      "Toast rice, deglaze with wine.",
+      "Add broth gradually, stirring until creamy.",
+      "Fold in mushrooms, cheese, and thyme."
+    ],
+    "nutrition": { "calories": 510, "protein": 16, "carbs": 62, "fat": 20, "fiber": 3 },
+    "image": "/images/mushroom-risotto.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "parmesan cheese",
+        "substitutes": ["nutritional yeast", "vegan parmesan"],
+        "note": "Nutritional yeast keeps dish vegan."
+      }
+    ]
+  },
+  {
+    "id": "r007",
+    "title": "Chickpea Shawarma Bowl",
+    "description": "Spiced roasted chickpeas served with grains, greens, and tahini sauce.",
+    "cuisine": "Middle Eastern",
+    "difficulty": "easy",
+    "cookingTime": 30,
+    "baseServings": 4,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 2, "unit": "cups", "preparation": "cooked" },
+      { "name": "shawarma spice", "quantity": 2, "unit": "tablespoons" },
+      { "name": "olive oil", "quantity": 2, "unit": "tablespoons" },
+      { "name": "brown rice", "quantity": 2, "unit": "cups", "preparation": "cooked" },
+      { "name": "mixed greens", "quantity": 4, "unit": "cups" },
+      { "name": "cucumber", "quantity": 1, "unit": "cup", "preparation": "diced" },
+      { "name": "tomato", "quantity": 1, "unit": "cup", "preparation": "diced" },
+      { "name": "tahini", "quantity": 0.25, "unit": "cup" },
+      { "name": "lemon juice", "quantity": 2, "unit": "tablespoons" },
+      { "name": "garlic", "quantity": 1, "unit": "clove", "preparation": "minced" }
+    ],
+    "steps": [
+      "Toss chickpeas with spice and oil; roast 20 minutes.",
+      "Whisk tahini, lemon, garlic, and water to thin.",
+      "Assemble bowls with rice, greens, veggies, and chickpeas.",
+      "Drizzle with tahini sauce."
+    ],
+    "nutrition": { "calories": 420, "protein": 16, "carbs": 55, "fat": 15, "fiber": 12 },
+    "image": "/images/chickpea-shawarma.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "tahini",
+        "substitutes": ["almond butter", "sunflower seed butter"],
+        "note": "Sunflower butter keeps it nut-free."
+      }
+    ]
+  },
+  {
+    "id": "r008",
+    "title": "Beef Bulgogi Lettuce Wraps",
+    "description": "Korean-style marinated beef served in crisp lettuce cups.",
+    "cuisine": "Korean",
+    "difficulty": "medium",
+    "cookingTime": 35,
+    "baseServings": 4,
+    "dietaryTags": ["dairy-free"],
+    "ingredients": [
+      { "name": "beef sirloin", "quantity": 1, "unit": "lb", "preparation": "thinly sliced" },
+      { "name": "soy sauce", "quantity": 0.25, "unit": "cup" },
+      { "name": "brown sugar", "quantity": 2, "unit": "tablespoons" },
+      { "name": "pear", "quantity": 0.5, "unit": "cup", "preparation": "grated" },
+      { "name": "sesame oil", "quantity": 1, "unit": "tablespoon" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves", "preparation": "minced" },
+      { "name": "ginger", "quantity": 1, "unit": "tablespoon", "preparation": "grated" },
+      { "name": "green onions", "quantity": 0.5, "unit": "cup", "preparation": "sliced" },
+      { "name": "romaine lettuce", "quantity": 12, "unit": "leaves" },
+      { "name": "kimchi", "quantity": 1, "unit": "cup", "optional": true }
+    ],
+    "steps": [
+      "Blend marinade ingredients and coat beef.",
+      "Marinate 20 minutes.",
+      "Stir-fry beef until caramelized.",
+      "Serve in lettuce leaves with kimchi."
+    ],
+    "nutrition": { "calories": 390, "protein": 28, "carbs": 18, "fat": 22, "fiber": 3 },
+    "image": "/images/beef-bulgogi.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "soy sauce",
+        "substitutes": ["tamari", "coconut aminos"],
+        "note": "Use tamari for gluten-free."
+      }
+    ]
+  },
+  {
+    "id": "r009",
+    "title": "Cauliflower Fried Rice",
+    "description": "Low-carb fried rice made with cauliflower and mixed veggies.",
+    "cuisine": "Asian Fusion",
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "baseServings": 4,
+    "dietaryTags": ["keto", "gluten-free"],
+    "ingredients": [
+      { "name": "cauliflower", "quantity": 1, "unit": "head", "preparation": "riced" },
+      { "name": "eggs", "quantity": 3, "unit": "pieces" },
+      { "name": "peas", "quantity": 0.75, "unit": "cup" },
+      { "name": "carrots", "quantity": 0.75, "unit": "cup", "preparation": "diced" },
+      { "name": "green onions", "quantity": 0.5, "unit": "cup", "preparation": "sliced" },
+      { "name": "garlic", "quantity": 2, "unit": "cloves", "preparation": "minced" },
+      { "name": "ginger", "quantity": 1, "unit": "teaspoon", "preparation": "grated" },
+      { "name": "sesame oil", "quantity": 2, "unit": "teaspoons" },
+      { "name": "soy sauce", "quantity": 2, "unit": "tablespoons" }
+    ],
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Sauté aromatics and vegetables.",
+      "Add cauliflower rice and cook until tender.",
+      "Stir in eggs, soy sauce, and sesame oil."
+    ],
+    "nutrition": { "calories": 210, "protein": 10, "carbs": 16, "fat": 12, "fiber": 5 },
+    "image": "/images/cauliflower-fried-rice.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "soy sauce",
+        "substitutes": ["tamari", "liquid aminos"],
+        "note": "Use tamari for gluten-free."
+      }
+    ]
+  },
+  {
+    "id": "r010",
+    "title": "Butternut Squash Soup",
+    "description": "Silky roasted butternut squash soup with warming spices.",
+    "cuisine": "American",
+    "difficulty": "medium",
+    "cookingTime": 40,
+    "baseServings": 4,
+    "dietaryTags": ["vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "butternut squash", "quantity": 1, "unit": "large", "preparation": "cubed" },
+      { "name": "carrots", "quantity": 2, "unit": "pieces", "preparation": "sliced" },
+      { "name": "apple", "quantity": 1, "unit": "piece", "preparation": "diced" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "chopped" },
+      { "name": "vegetable broth", "quantity": 4, "unit": "cups" },
+      { "name": "coconut milk", "quantity": 1, "unit": "cup" },
+      { "name": "ginger", "quantity": 1, "unit": "tablespoon", "preparation": "grated" },
+      { "name": "cinnamon", "quantity": 0.5, "unit": "teaspoon" },
+      { "name": "nutmeg", "quantity": 0.25, "unit": "teaspoon" },
+      { "name": "olive oil", "quantity": 2, "unit": "tablespoons" }
+    ],
+    "steps": [
+      "Roast squash, carrots, and apple with oil 25 minutes.",
+      "Sauté onion and ginger in pot.",
+      "Add roasted veggies, broth, and spices; simmer 10 minutes.",
+      "Blend until smooth, stir in coconut milk."
+    ],
+    "nutrition": { "calories": 290, "protein": 5, "carbs": 41, "fat": 12, "fiber": 8 },
+    "image": "/images/butternut-soup.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "coconut milk",
+        "substitutes": ["cashew cream", "oat milk"],
+        "note": "Cashew cream adds extra protein."
+      }
+    ]
+  },
+  {
+    "id": "r011",
+    "title": "Shrimp Pad Thai",
+    "description": "Classic Pad Thai with tamarind sauce, shrimp, and crunchy peanuts.",
+    "cuisine": "Thai",
+    "difficulty": "medium",
+    "cookingTime": 30,
+    "baseServings": 4,
+    "dietaryTags": ["dairy-free"],
+    "ingredients": [
+      { "name": "rice noodles", "quantity": 8, "unit": "oz" },
+      { "name": "shrimp", "quantity": 1, "unit": "lb", "preparation": "peeled" },
+      { "name": "eggs", "quantity": 2, "unit": "pieces" },
+      { "name": "bean sprouts", "quantity": 2, "unit": "cups" },
+      { "name": "green onions", "quantity": 0.5, "unit": "cup", "preparation": "sliced" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves", "preparation": "minced" },
+      { "name": "tamarind paste", "quantity": 2, "unit": "tablespoons" },
+      { "name": "fish sauce", "quantity": 2, "unit": "tablespoons" },
+      { "name": "palm sugar", "quantity": 2, "unit": "tablespoons" },
+      { "name": "peanuts", "quantity": 0.5, "unit": "cup", "preparation": "crushed" },
+      { "name": "lime", "quantity": 2, "unit": "pieces" }
+    ],
+    "steps": [
+      "Soak noodles until pliable.",
+      "Make sauce with tamarind, fish sauce, sugar, and water.",
+      "Stir-fry garlic and shrimp, then eggs.",
+      "Add noodles and sauce; toss until coated.",
+      "Add sprouts and onions; serve with peanuts and lime."
+    ],
+    "nutrition": { "calories": 480, "protein": 28, "carbs": 60, "fat": 15, "fiber": 4 },
+    "image": "/images/shrimp-pad-thai.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "fish sauce",
+        "substitutes": ["tamarind soy sauce", "miso paste"],
+        "note": "Mix tamarind, soy, and seaweed for vegetarian option."
+      }
+    ]
+  },
+  {
+    "id": "r012",
+    "title": "Greek Yogurt Parfait",
+    "description": "Layered yogurt parfait with berries, granola, and honey.",
+    "cuisine": "Greek",
+    "difficulty": "easy",
+    "cookingTime": 10,
+    "baseServings": 2,
+    "dietaryTags": ["vegetarian"],
+    "ingredients": [
+      { "name": "Greek yogurt", "quantity": 2, "unit": "cups" },
+      { "name": "mixed berries", "quantity": 1.5, "unit": "cups" },
+      { "name": "granola", "quantity": 1, "unit": "cup" },
+      { "name": "honey", "quantity": 2, "unit": "tablespoons" },
+      { "name": "chia seeds", "quantity": 2, "unit": "tablespoons" }
+    ],
+    "steps": [
+      "Layer yogurt, berries, and granola in glasses.",
+      "Repeat layers and drizzle honey.",
+      "Top with chia seeds and serve."
+    ],
+    "nutrition": { "calories": 380, "protein": 20, "carbs": 45, "fat": 10, "fiber": 6 },
+    "image": "/images/yogurt-parfait.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "Greek yogurt",
+        "substitutes": ["coconut yogurt", "soy yogurt"],
+        "note": "Choose coconut yogurt for dairy-free version."
+      }
+    ]
+  },
+  {
+    "id": "r013",
+    "title": "BBQ Jackfruit Sandwich",
+    "description": "Pulled jackfruit smothered in smoky barbecue sauce served on buns.",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookingTime": 30,
+    "baseServings": 4,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "young jackfruit", "quantity": 2, "unit": "cans", "preparation": "drained" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "sliced" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves", "preparation": "minced" },
+      { "name": "barbecue sauce", "quantity": 1, "unit": "cup" },
+      { "name": "smoked paprika", "quantity": 1, "unit": "teaspoon" },
+      { "name": "apple cider vinegar", "quantity": 1, "unit": "tablespoon" },
+      { "name": "burger buns", "quantity": 4, "unit": "pieces" },
+      { "name": "coleslaw mix", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Sauté onion and garlic until soft.",
+      "Add jackfruit, paprika, and vinegar; cook 5 minutes.",
+      "Stir in barbecue sauce and simmer.",
+      "Serve on buns with coleslaw."
+    ],
+    "nutrition": { "calories": 410, "protein": 8, "carbs": 68, "fat": 10, "fiber": 9 },
+    "image": "/images/jackfruit-sandwich.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "burger buns",
+        "substitutes": ["gluten-free buns", "lettuce wraps"],
+        "note": "Use lettuce wraps for low-carb option."
+      }
+    ]
+  },
+  {
+    "id": "r014",
+    "title": "Lentil Bolognese",
+    "description": "Hearty lentil-based Bolognese sauce served with whole-grain pasta.",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "cookingTime": 40,
+    "baseServings": 6,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "brown lentils", "quantity": 1.5, "unit": "cups", "preparation": "cooked" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "chopped" },
+      { "name": "carrots", "quantity": 1, "unit": "cup", "preparation": "diced" },
+      { "name": "celery", "quantity": 0.5, "unit": "cup", "preparation": "diced" },
+      { "name": "tomato paste", "quantity": 2, "unit": "tablespoons" },
+      { "name": "crushed tomatoes", "quantity": 3, "unit": "cups" },
+      { "name": "vegetable broth", "quantity": 1, "unit": "cup" },
+      { "name": "red wine", "quantity": 0.5, "unit": "cup", "optional": true },
+      { "name": "Italian seasoning", "quantity": 1, "unit": "tablespoon" },
+      { "name": "whole-grain pasta", "quantity": 12, "unit": "oz" }
+    ],
+    "steps": [
+      "Sauté onion, carrots, and celery until soft.",
+      "Add tomato paste and cook briefly.",
+      "Stir in lentils, tomatoes, broth, and seasoning.",
+      "Simmer 20 minutes, add wine if using.",
+      "Serve over cooked pasta."
+    ],
+    "nutrition": { "calories": 440, "protein": 20, "carbs": 72, "fat": 7, "fiber": 14 },
+    "image": "/images/lentil-bolognese.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "whole-grain pasta",
+        "substitutes": ["gluten-free pasta", "zucchini noodles"],
+        "note": "Zucchini noodles lower carb content."
+      }
+    ]
+  },
+  {
+    "id": "r015",
+    "title": "Chicken Tikka Masala",
+    "description": "Tender chicken in a creamy tomato masala sauce.",
+    "cuisine": "Indian",
+    "difficulty": "hard",
+    "cookingTime": 50,
+    "baseServings": 4,
+    "dietaryTags": ["gluten-free"],
+    "ingredients": [
+      { "name": "chicken thighs", "quantity": 1.5, "unit": "lb", "preparation": "cubed" },
+      { "name": "yogurt", "quantity": 1, "unit": "cup" },
+      { "name": "garam masala", "quantity": 2, "unit": "tablespoons" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "preparation": "minced" },
+      { "name": "ginger", "quantity": 2, "unit": "tablespoons", "preparation": "minced" },
+      { "name": "tomato puree", "quantity": 2, "unit": "cups" },
+      { "name": "heavy cream", "quantity": 0.75, "unit": "cup" },
+      { "name": "butter", "quantity": 2, "unit": "tablespoons" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "finely chopped" },
+      { "name": "cumin", "quantity": 1, "unit": "teaspoon" },
+      { "name": "turmeric", "quantity": 1, "unit": "teaspoon" },
+      { "name": "cayenne", "quantity": 0.5, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Marinate chicken with yogurt, garlic, ginger, and spices.",
+      "Sear chicken until browned.",
+      "Sauté onions and spices; add tomato puree.",
+      "Simmer sauce, add chicken, finish with cream.",
+      "Serve with basmati rice."
+    ],
+    "nutrition": { "calories": 520, "protein": 32, "carbs": 18, "fat": 36, "fiber": 3 },
+    "image": "/images/chicken-tikka-masala.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "heavy cream",
+        "substitutes": ["coconut cream", "cashew cream"],
+        "note": "Coconut cream adds natural sweetness."
+      }
+    ]
+  },
+  {
+    "id": "r016",
+    "title": "Greek Stuffed Peppers",
+    "description": "Bell peppers filled with herbed rice, beef, and feta.",
+    "cuisine": "Greek",
+    "difficulty": "medium",
+    "cookingTime": 50,
+    "baseServings": 4,
+    "dietaryTags": ["gluten-free"],
+    "ingredients": [
+      { "name": "bell peppers", "quantity": 4, "unit": "large" },
+      { "name": "ground beef", "quantity": 1, "unit": "lb" },
+      { "name": "rice", "quantity": 1, "unit": "cup", "preparation": "cooked" },
+      { "name": "tomato sauce", "quantity": 1, "unit": "cup" },
+      { "name": "feta cheese", "quantity": 0.5, "unit": "cup" },
+      { "name": "onion", "quantity": 0.5, "unit": "cup", "preparation": "diced" },
+      { "name": "garlic", "quantity": 2, "unit": "cloves", "preparation": "minced" },
+      { "name": "oregano", "quantity": 1, "unit": "teaspoon" },
+      { "name": "lemon zest", "quantity": 1, "unit": "teaspoon" }
+    ],
+    "steps": [
+      "Par-bake peppers until slightly tender.",
+      "Cook beef with onion and garlic; stir in rice, sauce, and herbs.",
+      "Stuff peppers and top with feta.",
+      "Bake 20 minutes until heated through."
+    ],
+    "nutrition": { "calories": 430, "protein": 28, "carbs": 32, "fat": 22, "fiber": 5 },
+    "image": "/images/greek-stuffed-peppers.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "ground beef",
+        "substitutes": ["ground turkey", "lentils"],
+        "note": "Use lentils for plant-based option."
+      }
+    ]
+  },
+  {
+    "id": "r017",
+    "title": "Tofu Stir-Fry with Peanut Sauce",
+    "description": "Crispy tofu stir-fry tossed in a savory peanut sauce.",
+    "cuisine": "Asian Fusion",
+    "difficulty": "easy",
+    "cookingTime": 25,
+    "baseServings": 4,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "extra-firm tofu", "quantity": 16, "unit": "oz" },
+      { "name": "broccoli", "quantity": 2, "unit": "cups" },
+      { "name": "snap peas", "quantity": 1, "unit": "cup" },
+      { "name": "carrots", "quantity": 1, "unit": "cup", "preparation": "sliced" },
+      { "name": "peanut butter", "quantity": 0.5, "unit": "cup" },
+      { "name": "soy sauce", "quantity": 3, "unit": "tablespoons" },
+      { "name": "maple syrup", "quantity": 1, "unit": "tablespoon" },
+      { "name": "rice vinegar", "quantity": 1, "unit": "tablespoon" },
+      { "name": "garlic", "quantity": 2, "unit": "cloves", "preparation": "minced" },
+      { "name": "ginger", "quantity": 1, "unit": "teaspoon", "preparation": "grated" }
+    ],
+    "steps": [
+      "Press and cube tofu, then pan-fry until crisp.",
+      "Stir-fry vegetables until tender-crisp.",
+      "Whisk sauce ingredients with warm water.",
+      "Combine tofu, vegetables, and sauce."
+    ],
+    "nutrition": { "calories": 430, "protein": 22, "carbs": 28, "fat": 26, "fiber": 6 },
+    "image": "/images/tofu-stir-fry.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "peanut butter",
+        "substitutes": ["almond butter", "sunflower seed butter"],
+        "note": "Sunflower butter keeps it nut-free."
+      }
+    ]
+  },
+  {
+    "id": "r018",
+    "title": "Baked Falafel with Tahini Sauce",
+    "description": "Crispy baked falafel served with herbed tahini sauce.",
+    "cuisine": "Middle Eastern",
+    "difficulty": "medium",
+    "cookingTime": 35,
+    "baseServings": 4,
+    "dietaryTags": ["vegan"],
+    "ingredients": [
+      { "name": "dried chickpeas", "quantity": 1.5, "unit": "cups", "preparation": "soaked" },
+      { "name": "fresh parsley", "quantity": 1, "unit": "cup" },
+      { "name": "fresh cilantro", "quantity": 1, "unit": "cup" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "chopped" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves" },
+      { "name": "cumin", "quantity": 2, "unit": "teaspoons" },
+      { "name": "coriander", "quantity": 1, "unit": "teaspoon" },
+      { "name": "baking powder", "quantity": 1, "unit": "teaspoon" },
+      { "name": "olive oil", "quantity": 3, "unit": "tablespoons" },
+      { "name": "tahini", "quantity": 0.25, "unit": "cup" },
+      { "name": "lemon juice", "quantity": 3, "unit": "tablespoons" }
+    ],
+    "steps": [
+      "Pulse falafel ingredients into coarse mixture.",
+      "Form patties and brush with oil.",
+      "Bake at 425°F for 25 minutes, flipping once.",
+      "Whisk tahini sauce with lemon and water; serve alongside."
+    ],
+    "nutrition": { "calories": 360, "protein": 14, "carbs": 40, "fat": 16, "fiber": 9 },
+    "image": "/images/baked-falafel.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "tahini",
+        "substitutes": ["cashew cream", "hummus"],
+        "note": "Cashew cream adds extra richness."
+      }
+    ]
+  },
+  {
+    "id": "r019",
+    "title": "Teriyaki Salmon Bowl",
+    "description": "Glazed salmon served over brown rice with vegetables.",
+    "cuisine": "Japanese",
+    "difficulty": "easy",
+    "cookingTime": 25,
+    "baseServings": 4,
+    "dietaryTags": ["pescatarian"],
+    "ingredients": [
+      { "name": "salmon fillets", "quantity": 4, "unit": "pieces" },
+      { "name": "brown rice", "quantity": 2, "unit": "cups", "preparation": "cooked" },
+      { "name": "broccoli", "quantity": 2, "unit": "cups", "preparation": "steamed" },
+      { "name": "edamame", "quantity": 1, "unit": "cup" },
+      { "name": "teriyaki sauce", "quantity": 0.5, "unit": "cup" },
+      { "name": "sesame seeds", "quantity": 2, "unit": "teaspoons" },
+      { "name": "green onions", "quantity": 0.25, "unit": "cup", "preparation": "sliced" }
+    ],
+    "steps": [
+      "Brush salmon with teriyaki sauce and bake 12 minutes.",
+      "Prepare bowls with rice, vegetables, and salmon.",
+      "Drizzle extra sauce and garnish with sesame seeds."
+    ],
+    "nutrition": { "calories": 520, "protein": 34, "carbs": 52, "fat": 20, "fiber": 6 },
+    "image": "/images/teriyaki-salmon.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "teriyaki sauce",
+        "substitutes": ["soy-ginger glaze", "coconut aminos glaze"],
+        "note": "Use coconut aminos for gluten-free."
+      }
+    ]
+  },
+  {
+    "id": "r020",
+    "title": "Moroccan Chickpea Stew",
+    "description": "Spiced chickpea and vegetable stew with preserved lemon.",
+    "cuisine": "Moroccan",
+    "difficulty": "medium",
+    "cookingTime": 40,
+    "baseServings": 6,
+    "dietaryTags": ["vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 3, "unit": "cups", "preparation": "cooked" },
+      { "name": "onion", "quantity": 1, "unit": "piece", "preparation": "chopped" },
+      { "name": "carrots", "quantity": 2, "unit": "pieces", "preparation": "sliced" },
+      { "name": "zucchini", "quantity": 1, "unit": "piece", "preparation": "diced" },
+      { "name": "crushed tomatoes", "quantity": 2, "unit": "cups" },
+      { "name": "vegetable broth", "quantity": 3, "unit": "cups" },
+      { "name": "preserved lemon", "quantity": 1, "unit": "piece", "preparation": "finely chopped" },
+      { "name": "ras el hanout", "quantity": 1, "unit": "tablespoon" },
+      { "name": "cumin", "quantity": 1, "unit": "teaspoon" },
+      { "name": "paprika", "quantity": 1, "unit": "teaspoon" },
+      { "name": "olive oil", "quantity": 2, "unit": "tablespoons" }
+    ],
+    "steps": [
+      "Sauté onion and spices in oil until fragrant.",
+      "Add vegetables and cook 5 minutes.",
+      "Stir in chickpeas, tomatoes, broth, and preserved lemon.",
+      "Simmer 25 minutes until thickened."
+    ],
+    "nutrition": { "calories": 360, "protein": 15, "carbs": 52, "fat": 10, "fiber": 12 },
+    "image": "/images/moroccan-stew.jpg",
+    "substitutionSuggestions": [
+      {
+        "ingredient": "preserved lemon",
+        "substitutes": ["lemon zest", "lemon juice"],
+        "note": "Combine zest and juice for similar brightness."
+      }
+    ]
+  }
+]
